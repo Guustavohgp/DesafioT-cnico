@@ -7,7 +7,7 @@ public class VerificarString {
         Scanner scanner = new Scanner(System.in);
             
           // Pedir ao usuário para fornecer uma string
-        System.out.print("Digite seu texto para verificar a quantidade de letras A: ");
+        System.out.print("Digite seu texto para verificar a quantidade de letras 'A': ");
         String entrada = scanner.nextLine();
 
         // Chamar função para contar a quantidade de 'a' (maiúscula e minúscula)

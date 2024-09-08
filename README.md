@@ -16,6 +16,9 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 
 IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
+## Resultado:
+![alt text](image-2.png)
+
 ## 3) Observe o trecho de código abaixo: int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
 
 Ao final do processamento, qual será o valor da variável SOMA?
