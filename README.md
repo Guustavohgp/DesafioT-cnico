@@ -18,8 +18,9 @@ IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua p
 
 Ao final do processamento, qual será o valor da variável SOMA?
 
-## Resposta:
+## Resposta: 90
 
+![alt text](image-1.png)
 
 ## 4) Descubra a lógica e complete o próximo elemento:
 a) 1, 3, 5, 7, ___
