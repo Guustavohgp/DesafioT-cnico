@@ -10,7 +10,7 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 
 ![alt text](image.png)
 
-Foi adicionado um loop para não encerrar o programa e conferir mais rápido.
+`Foi adicionado um loop para não encerrar o programa e conferir mais rápido.`
 
 ## 2) Escreva um programa que verifique, em uma string, a existência da letra ‘a’, seja maiúscula ou minúscula, além de informar a quantidade de vezes em que ela ocorre.
 
@@ -20,7 +20,7 @@ IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua p
 
 Ao final do processamento, qual será o valor da variável SOMA?
 
-## Resposta: 90
+## Resposta: `90`
 
 ![alt text](image-1.png)
 
@@ -40,4 +40,5 @@ f) 2,10, 12, 16, 17, 18, 19, `20`
 
 ## 5) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?  
 
-## Resposta:
+## Resposta: 
+`Ligue o primeiro interruptor e deixe-o ligado por alguns minutos até esquentar a lâmpada. Desligue o primeiro interruptor e ligue o segundo interruptor, deixando-o ligado. Agora vá até as salas. A lâmpada que estiver acesa é do segundo interruptor. A lâmpada que estiver desligada e quente é do primeiro interruptor. A última lâmpada será a do terceiro interruptor.`
