@@ -6,6 +6,9 @@
 
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
+## Resultado:
+
+![alt text](image.png)
 
 ## 2) Escreva um programa que verifique, em uma string, a existência da letra ‘a’, seja maiúscula ou minúscula, além de informar a quantidade de vezes em que ela ocorre.
 
@@ -15,7 +18,7 @@ IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua p
 
 Ao final do processamento, qual será o valor da variável SOMA?
 
-Resposta:
+## Resposta:
 
 ## 4) Descubra a lógica e complete o próximo elemento:
 a) 1, 3, 5, 7, ___
@@ -28,4 +31,4 @@ f) 2,10, 12, 16, 17, 18, 19, ____
 
 ## 5) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?  
 
-Resposta:
+## Resposta:
