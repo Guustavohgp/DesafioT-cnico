@@ -20,6 +20,7 @@ Ao final do processamento, qual será o valor da variável SOMA?
 
 ## Resposta:
 
+
 ## 4) Descubra a lógica e complete o próximo elemento:
 a) 1, 3, 5, 7, ___
 b) 2, 4, 8, 16, 32, 64, ____
